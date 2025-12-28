@@ -31,45 +31,6 @@ A modern, responsive portfolio website showcasing my skills, experience, educati
 ## 📁 Project Structure
 
 ```
-maitri-portfolio/
-│
-├── index.html          # Main HTML file
-├── style.css           # Main stylesheet (Pure CSS)
-├── script.js           # Main JavaScript file
-├── README.md           # Project documentation
-├── .gitignore          # Git ignore file
-├── .gitattributes      # Git attributes (for language detection)
-│
-└── images/             # Image assets
-    ├── Logo & Icons
-    │   ├── ms-logo-design-initial-gold-sm-letter-vector-38289644-removebg-preview.png
-    │   ├── menu.png
-    │   └── hireme.png
-    ├── Hero Section
-    │   └── portfolio-Photoroom.png
-    ├── Skills Icons
-    │   ├── website-design.png
-    │   ├── sql-server-icon-9-removebg-preview.png
-    │   └── app-design.png
-    ├── Experience Icons
-    │   ├── tacttree circle.png
-    │   ├── itcg circle.png
-    │   └── cs circle.png
-    ├── Education Icons
-    │   ├── svit.png
-    │   └── school.png
-    ├── Project Images
-    │   ├── atliq - hospitality.png
-    │   ├── sales 23-25.png
-    │   └── atliq suplly chain.png
-    ├── Social Icons
-    │   ├── linkedlogo.png
-    │   ├── githublogo.png
-    │   └── gmail.png
-    └── MAITRI SONI_RESUME.pdf
-```
-
-> **Note**: This project uses only essential files. All external libraries (Typed.js, Font Awesome) are loaded via CDN. No local libraries or build tools required!
 
 ## 🚀 Getting Started
 
@@ -235,6 +196,7 @@ For any inquiries or collaboration opportunities, please reach out via:
 - **No Build Tools**: No compilation, preprocessing, or build process required
 - **Direct Usage**: Simply open `index.html` in a browser - it works immediately!
 - **GitHub Language**: The repository is correctly identified as CSS/HTML/JavaScript
+
 
 
 
