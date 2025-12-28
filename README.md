@@ -2,7 +2,6 @@
 
 A modern, responsive portfolio website showcasing my skills, experience, education, and projects. Built with pure HTML, CSS, and JavaScript.
 
-> **Note**: This project has been migrated from SCSS to pure CSS. All styles are now in standard CSS format - no build tools or compilation required!
 
 ## 🌟 Features
 
@@ -237,12 +236,6 @@ For any inquiries or collaboration opportunities, please reach out via:
 - **Direct Usage**: Simply open `index.html` in a browser - it works immediately!
 - **GitHub Language**: The repository is correctly identified as CSS/HTML/JavaScript
 
-### Migration from SCSS
-This project was previously written in SCSS but has been converted to pure CSS for:
-- ✅ Simpler deployment (no build step)
-- ✅ Better compatibility (works everywhere)
-- ✅ Easier maintenance (standard CSS)
-- ✅ Faster loading (no compilation needed)
 
-**Note**: The only SCSS files remaining are in the `fonts/` directory - these are icon font definitions and are not used by the main portfolio. They can be safely ignored.
+
 
